@@ -1,4 +1,4 @@
-# Project Title: 
+# Project Title: CNN Model for Plant Species Classification
 
 #### ➖ Convolutional neural network (CNN) model that can accurately recognize handwritten letters from the Russian alphabet.
 #### ➖ Utilized the Russian Handwritten Letters dataset, which includes images of handwritten letters and their corresponding labels
